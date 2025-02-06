@@ -8,12 +8,7 @@ import {
 
 
 const firebaseConfig = {
-    apiKey: "AIzaSyA7PnewF53BTnPDI4WjLEmT6W8TEKsPVDI",
-    authDomain: "moneymatirx.firebaseapp.com",
-    projectId: "moneymatirx",
-    storageBucket: "moneymatirx.firebasestorage.app",
-    messagingSenderId: "958065775983",
-    appId: "1:958065775983:web:fe874bd9cfc0ef989b849a",
+
 };
 
 const app = initializeApp(firebaseConfig);
